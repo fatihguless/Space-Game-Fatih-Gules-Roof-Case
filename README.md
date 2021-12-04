@@ -1,5 +1,5 @@
 # Space-Game-Fatih-Gules-Roof-Case
-Bu proje dökümanda belirtildiği gibi Unity 2020.1.16f1 sürümü ile geliştirilmiştir. Projeyi Unity 2020.1.16f1 sürümünde Fatih-Gules-Roof-Case.unitypackage dosyasına çift tıklayarakda açabilirsiniz.
+Bu proje dökümanda belirtildiği gibi Unity 2020.1.16f1 sürümü ile geliştirilmiştir.
 <br>--------------------------------<br>
 Sağ ve sol veya a ve d tuşları ile hareket<br>
 Space tuşu eteş etme<br>
