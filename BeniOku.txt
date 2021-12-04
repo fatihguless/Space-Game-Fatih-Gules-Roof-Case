@@ -1,5 +1,5 @@
 Bu proje dökümanda belirtildiği gibi Unity 2020.1.16f1 sürümü ile geliştirilmiştir. 
-Projeyi Unity 2020.1.16f1 sürümünde Fatih_Gules_Roof_Case.unitypackage dosyasına çift tıklayarakda açabilirsiniz.
+Projeyi Unity 2020.1.16f1 sürümünde Fatih-Gules-Roof-Case.unitypackage dosyasına çift tıklayarakda açabilirsiniz.
 --------------------------------
 Sağ ve sol veya a ve d tuşları ile hareket
 Space tuşu eteş etme
